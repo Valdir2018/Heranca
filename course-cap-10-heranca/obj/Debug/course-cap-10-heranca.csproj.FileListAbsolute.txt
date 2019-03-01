@@ -1,0 +1,7 @@
+C:\Users\valdir.correia\source\repos\heranca-e-polimorfismo\course-cap-10-heranca\course-cap-10-heranca\bin\Debug\course-cap-10-heranca.exe.config
+C:\Users\valdir.correia\source\repos\heranca-e-polimorfismo\course-cap-10-heranca\course-cap-10-heranca\bin\Debug\course-cap-10-heranca.exe
+C:\Users\valdir.correia\source\repos\heranca-e-polimorfismo\course-cap-10-heranca\course-cap-10-heranca\bin\Debug\course-cap-10-heranca.pdb
+C:\Users\valdir.correia\source\repos\heranca-e-polimorfismo\course-cap-10-heranca\course-cap-10-heranca\obj\Debug\course-cap-10-heranca.csprojResolveAssemblyReference.cache
+C:\Users\valdir.correia\source\repos\heranca-e-polimorfismo\course-cap-10-heranca\course-cap-10-heranca\obj\Debug\course-cap-10-heranca.csproj.CoreCompileInputs.cache
+C:\Users\valdir.correia\source\repos\heranca-e-polimorfismo\course-cap-10-heranca\course-cap-10-heranca\obj\Debug\course-cap-10-heranca.exe
+C:\Users\valdir.correia\source\repos\heranca-e-polimorfismo\course-cap-10-heranca\course-cap-10-heranca\obj\Debug\course-cap-10-heranca.pdb
